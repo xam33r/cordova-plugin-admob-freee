@@ -1,5 +1,3 @@
-# cordova-plugin-admob-freee
-cordova-plugin-admob updated
 ## Cordova Plugin for AdMob, Open Source Project
 
 The FASTEST and EASIEST TO USE Cordova Admob plugin for Android, iOS and Windows phone.
@@ -22,7 +20,7 @@ cordova plugin add cordova-plugin-admob-freee
 
 OR
 ```bash
-cordova plugin add https://github.com/floatinghotpot/cordova-plugin-admob-freee
+cordova plugin add https://github.com/xam33r/cordova-plugin-admob-freee
 ```
 
 Example Code:
@@ -48,7 +46,7 @@ Example Code:
         );
 ```
 
-See full index.html: https://github.com/floatinghotpot/cordova-plugin-admob/blob/master/test/index.html
+See full index.html: https://github.com/xam33r/cordova-plugin-admob-freee/blob/master/test/index.html
 
 Note: This plugin is quite stable, and will not be evolved any more, except upgrade AdMob SDK.
 
@@ -58,7 +56,7 @@ If you want to use more powerful and new features, please use the pro version in
 
 As announced by Cordova team, the plugins registry is being migrated to npm, you can find [all plugins by Raymond here](https://www.npmjs.com/~floatinghotpot).
 
-![ScreenShot](https://github.com/floatinghotpot/cordova-plugin-admob/raw/master/docs/pro_vs_basic.png)
+![ScreenShot](https://github.com/xam33r/cordova-plugin-admob-freee/raw/master/docs/pro_vs_basic.png)
 
 ## Credits
 
